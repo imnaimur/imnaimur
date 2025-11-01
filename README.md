@@ -16,7 +16,7 @@
 
 </div>
 <a href="https://www.linkedin.com/in/naimur-rahman-52771433b/" target="_blank">
-<i class="fa-brands fa-square-linkedin"></i>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
 </a>
 <div style="text-align:center;">
 
