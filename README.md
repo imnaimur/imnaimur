@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<img src = "https://github.com/imnaimur/pudding-paradise/blob/main/img/mario-coding.gif" height=500 width=1080>
+<img src = "./img/mario-coding.gif" height=500 width=1080>
 <!-- <img src = "https://github.com/imnaimur/pudding-paradise/blob/main/img/hacker.jpeg"> -->
 
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
