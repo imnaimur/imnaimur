@@ -10,15 +10,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+<div style="text-align:center;">
 
 ## 🌐 Socials:
 
-<a href="https://discordapp.com/users/939772492304769025" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://www.facebook.com/thenameisnaimur/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/thenameisnaimur" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/naimur-rahman-52771433b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@naimurrahman555" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://discordapp.com/users/939772492304769025" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.facebook.com/thenameisnaimur/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/thenameisnaimur" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/naimur-rahman-52771433b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@naimurrahman555" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 
 </div>
 <div style="text-align:center;">
