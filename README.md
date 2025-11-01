@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/brands.min.css" integrity="sha512-WxpJXPm/Is1a/dzEdhdaoajpgizHQimaLGL/QqUIAjIihlQqlPQb1V9vkGs9+VzXD7rgI6O+UsSKl4u5K36Ydw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <img src = "./img/mario-coding.gif" height=500 width=1080>
 <!-- <img src = "https://github.com/imnaimur/pudding-paradise/blob/main/img/hacker.jpeg"> -->
 
@@ -15,7 +15,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/939772492304769025) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/thenameisnaimur/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameisnaimur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimur-rahman-52771433b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@naimurrahman555)
 
 </div>
-
+<a href="https://www.linkedin.com/in/naimur-rahman-52771433b/" target="_blank">
+<i class="fa-brands fa-square-linkedin"></i>
+</a>
 <div style="text-align:center;">
 
 # 📊 GitHub Stats:
