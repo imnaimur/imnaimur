@@ -10,17 +10,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div style="text-align:center;">
+<div>
 
-👋 Hi, I’m **Naimur Rahman**   <br>
-💻 Passionate **Web Developer** and **AI Enthusiast**  <br>
-🚀 Learning **Django** and **modern web design**  <br>
-🧠 Currently focusing on **Machine Learning** and **Deep Learning** to expand my expertise in **intelligent systems**  <br>
-🌱 I enjoy building projects that combine **creativity** with **data-driven technologies**  <br>
-📂 Explore my repositories to see what I’m working on!  <br>
-📫 Reach me at **naimur.rahman3@g.bracu.ac.bd**<br>
+<h1>👋 Hi, I’m <strong>Naimur Rahman</strong></h1>
+<h3>💻 Passionate <strong>Web Developer</strong> and <strong>AI Enthusiast</strong></h3>
+<h4>🚀 Learning <strong>Django</strong> and <strong>modern web design</strong></h4>
+<h4>🧠 Currently focusing on <strong>Machine Learning</strong> and <strong>Deep Learning</strong> to expand my expertise in <strong>intelligent systems</strong></h4>
+<h4>🌱 I enjoy building projects that combine <strong>creativity</strong> with <strong>data-driven technologies</strong></h4>
+<h4>📂 Explore my repositories to see what I’m working on!</h4>
+<h4>📫 Reach me at <strong>naimur.rahman3@g.bracu.ac.bd</strong></h4>
 
 </div>
+
 
 
 <div style="text-align:center;">
