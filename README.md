@@ -11,6 +11,16 @@
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div style="text-align:center;">
+👋 Hi, I’m Naimur Rahman
+💻 Passionate Web Developer and AI Enthusiast
+🚀 Learning Django and modern web design
+🧠 Currently focusing on Machine Learning and Deep Learning to expand my expertise in intelligent systems
+🌱 I enjoy building projects that combine creativity with data-driven technologies
+📂 Explore my repositories to see what I’m working on!
+📫 Reach me at naimur.rahman3@g.bracu.ac.bd
+</div>
+
+<div style="text-align:center;">
 
 ## 🌐 Socials:
 
