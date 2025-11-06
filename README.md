@@ -42,6 +42,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imnaimur&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imnaimur&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imnaimur&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=imnaimur&theme=dark&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imnaimur&theme=dark&utcOffset=8)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnaimur&theme=dark)
 
