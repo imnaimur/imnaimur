@@ -39,9 +39,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=imnaimur&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=imnaimur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnaimur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imnaimur&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imnaimur&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imnaimur&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imnaimur&theme=dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnaimur&theme=dark)
 
 </div>
 <img src="https://raw.githubusercontent.com/imnaimur/imnaimur/output/snake.svg" alt="Snake animation" />
