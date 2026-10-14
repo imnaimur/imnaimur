@@ -15,9 +15,10 @@
 <h2>🤖 <strong>ML Engineer</strong> & <strong>Data Scientist</strong> | Fresh Graduate, BRAC University</h2>
 <h4>🧠 Specializing in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong></h4>
 <h4>🔬 Built an end-to-end medical image segmentation pipeline on the <strong>BraTS2024</strong> dataset for my undergraduate thesis</h4>
+<h4>🤖 AI-Powered Workflow Automation with <strong>n8n</strong> </h4>
 <h4>⚙️ I care about clean code, reproducible pipelines, and models that actually generalize</h4>
 <h4>📂 Explore my repositories to see what I'm building</h4>
-<h4>📫 Reach me at <strong>naimur.rahman3@g.bracu.ac.bd</strong></h4>
+<h4>📫 Reach me at <strong>thenameisnaimur@gmail.com</strong></h4>
 
 </div>
 
