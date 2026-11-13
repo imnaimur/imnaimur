@@ -42,7 +42,7 @@
 <strong>Logistics KPI Analysis & Performance Optimization</strong>
 <a href="https://public.tableau.com/app/profile/naimur.rahman5472/viz/order_analysis_dashboard/order_analysis?publish=yes">Tablue Dashboard: Order Analysis Dashboard</a>
 <ul>
-  <li> Analyzed logistics operations across six hubs using PostgreSQL, developing CTE-based queries to evaluate hub utilization, delivery performance, agent productivity and order-holding trends.</li
+  <li> Analyzed logistics operations across six hubs using PostgreSQL, developing CTE-based queries to evaluate hub utilization, delivery performance, agent productivity and order-holding trends.</li>
 <li>Developed interactive Tableau dashboards and scenario-based agent redistribution analysis, projecting improved hub utilization from 56.2–95.9% to 72–84% across six hubs.</li>
 </ul>
 
