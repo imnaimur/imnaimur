@@ -12,13 +12,13 @@
 <div>
 
 <h1>👋 Hi, I'm <strong>Naimur Rahman</strong></h1>
-<h2>🤖 <strong>ML Engineer</strong> & <strong>Data Scientist</strong> | Fresh Graduate, BRAC University</h2>
-<h4>🧠 Specializing in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong></h4>
+<h2>🤖 <strong>Data Analyst</strong> & <strong>Business Intelligence </strong> | Graduate, BRAC University</h2>
+<!-- <h4>🧠 Specializing in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong></h4>
 <h4>🔬 Built an end-to-end medical image segmentation pipeline on the <strong>BraTS2024</strong> dataset for my undergraduate thesis</h4>
 <h4>🤖 AI-Powered Workflow Automation with <strong>n8n</strong> </h4>
 <h4>⚙️ I care about clean code, reproducible pipelines, and models that actually generalize</h4>
 <h4>📂 Explore my repositories to see what I'm building</h4>
-<h4>📫 Reach me at <strong>thenameisnaimur@gmail.com</strong></h4>
+<h4>📫 Reach me at <strong>thenameisnaimur@gmail.com</strong></h4> -->
 
 </div>
 
@@ -38,18 +38,26 @@
 
 <div style="text-align:center;">
 
-## 🔬 Featured Work
+## 🔬  Projects : 
+<strong>Logistics KPI Analysis & Performance Optimization</strong>
+<a href="https://public.tableau.com/app/profile/naimur.rahman5472/viz/order_analysis_dashboard/order_analysis?publish=yes">Tablue Dashboard: Order Analysis Dashboard</a>
+<ul>
+  <li> Analyzed logistics operations across six hubs using PostgreSQL, developing CTE-based queries to evaluate hub utilization, delivery performance, agent productivity and order-holding trends.</li
+<li>Developed interactive Tableau dashboards and scenario-based agent redistribution analysis, projecting improved hub utilization from 56.2–95.9% to 72–84% across six hubs.</li>
+</ul>
 
-**🧠 A Lightweight Multi-Modal Deep Learning Framework for Brain Tumor Segmentation & Classification Using MRI :**  </br>
+<strong>Residential Property Price Analysis</strong>
+<ul>
+    <li>item Applied IQR and percentile-based outlier detection, correlation analysis, domain knowledge, ANOVA F-test and Tukey's HSD for data cleaning and feature selection.</li>
+    <li> Refined the dataset from 20,723 rows and 24 features to 14,174 rows and 16 features, retaining approximately 68.4% of the original records and reducing the feature count by 33.3%.</li>
+</ul>
+<!-- **🧠 A Lightweight Multi-Modal Deep Learning Framework for Brain Tumor Segmentation & Classification Using MRI :**  </br>
 End-to-end deep learning pipeline on the **BraTS2024 GLI** dataset — 2.5D Attention U-Net for segmentation, custom ResNet-10 for classification, fused via a novel SMM-Fusion gating architecture. Evaluated across Dice, IoU, F1, and ROC-AUC on multilabel tumor subregions.
-
 **🏠 Residential Flat Price Predictor** *(Regression)* **:** </br>
 End-to-end regression pipeline predicting Dhaka flat prices using XGBoost, LightGBM, and Random Forest, with feature engineering via PCA and ANOVA F-test.
-
 **📊 Flat Price Justification Model** *(Classification)* **:** </br>
 Binary classification system determining whether a listed flat price is justified relative to market data — built on engineered features from the regression project.
-
-📂 Explore the full repos below.
+📂 Explore the full repos below. -->
 
 </div>
 
